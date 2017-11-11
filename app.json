@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "ar-demo",
+    "name": "ar-test",
     "description": "An empty new project",
-    "slug": "ar-demo",
+    "slug": "ar-test",
     "privacy": "public",
     "sdkVersion": "22.0.0",
     "version": "1.0.0",

@@ -9,7 +9,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.2.tar.gz",
     "three": "^0.88.0"
   },
-  "name": "ar-demo",
+  "name": "ar-test",
   "version": "0.0.0",
   "description": "Hello Expo!",
   "author": null
