@@ -1,0 +1,16 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "eslint": "^4.11.0",
+    "expo": "^22.0.0",
+    "expo-three": "^2.0.3",
+    "react": "16.0.0-beta.5",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.2.tar.gz",
+    "three": "^0.88.0"
+  },
+  "name": "ar-demo",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null
+}
